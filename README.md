@@ -22,6 +22,6 @@ Edited Without Toptitle (just leave it empty for no toptitle)
 ![](DeleteThis/sharex3.png)
 
 
-With Edited TopTitle edited
+With Edited TopTitle
 
 ![](DeleteThis/sharex4.png)
