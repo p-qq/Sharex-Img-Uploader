@@ -1,0 +1,12 @@
+{
+  "Version": "1.0.1",
+  "Name": "Image Hoster",
+  "DestinationType": "ImageUploader, FileUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "YOURDOMAIN/upload.php",
+  "Body": "MultipartFormData",
+  "Arguments": {
+    "passowrd": "Your Password Here"
+  },
+  "FileFormName": "file"
+}
