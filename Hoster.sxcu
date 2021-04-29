@@ -6,7 +6,7 @@
   "RequestURL": "YOURDOMAIN/upload.php",
   "Body": "MultipartFormData",
   "Arguments": {
-    "passowrd": "Your Password Here"
+    "password": "Your Password Here"
   },
   "FileFormName": "file"
 }
