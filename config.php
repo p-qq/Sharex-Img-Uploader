@@ -9,3 +9,4 @@ define('toptitle', "toptitle"); # 1st embed title
 define('title', "title"); # 2nd embed title
 define('description', "description"); # Description
 define('color', "0e0e0e"); # Embed Color
+?>
